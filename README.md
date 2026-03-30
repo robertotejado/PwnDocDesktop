@@ -5,6 +5,9 @@
 **PwnDoc Desktop** es una herramienta integral de gestión de auditorías de ciberseguridad y generación automatizada de reportes técnicos y ejecutivos. Diseñada para maximizar la velocidad del auditor sin sacrificar la calidad ni la seguridad operativa (**OPSEC**).
 
 -----
+<img width="1905" height="1007" alt="PwnDocDesktop" src="https://github.com/user-attachments/assets/71396f3d-29e6-4562-9220-d226f63cbaf7" />
+
+-----
 
 ## 🚀 Características Principales
 
