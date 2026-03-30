@@ -16,6 +16,7 @@
   * **Cerebro C-Level:** Generador automático de **Resúmenes Ejecutivos** traduciendo vulnerabilidades técnicas a impacto de negocio real.
   * **Auto-Redacción Técnica:** Cazador de teorías y soluciones basado en la API de Gemini para autocompletar hallazgos en segundos.
   * **Modo Formal:** La IA escribe estrictamente en segunda persona formal (*Usted/Ustedes*), lista para entregar al cliente.
+  * **OPSEC Extremo en Consultas:** Para evitar fugas de información confidencial, el campo Activo/IP NUNCA sale de tu máquina. La integración con Gemini solo envía el **Título** genérico del hallazgo a la nube.
 
 ### 📚 Arsenal de Plantillas Local (Offline)
 
