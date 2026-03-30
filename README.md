@@ -1,6 +1,6 @@
 # 🛡️ PwnDoc Desktop v1.0
 
-### *La navaja suiza para Auditores Red Team y Pentesters*
+### *La herramienta definitiva para la redacción de reportes técnicos y ejecutivos de ciberseguridad*
 
 **PwnDoc Desktop** es una herramienta integral de gestión de auditorías de ciberseguridad y generación automatizada de reportes técnicos y ejecutivos. Diseñada para maximizar la velocidad del auditor sin sacrificar la calidad ni la seguridad operativa (**OPSEC**).
 
